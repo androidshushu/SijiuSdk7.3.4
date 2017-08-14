@@ -20,7 +20,9 @@ import com.shiyue.mhxy.http.ApiAsyncTask;
 import com.shiyue.mhxy.http.ApiRequestListener;
 import com.shiyue.mhxy.sdk.SiJiuSDK;
 
-//// TODO: 2017/8/9 绑定手机号的碎片
+/**
+ * 手机绑定布局界面
+ */
 public class Sy_PhbindFragment extends Fragment implements View.OnClickListener {
     private TextView show_account;
     private EditText bind_phonenumber;
