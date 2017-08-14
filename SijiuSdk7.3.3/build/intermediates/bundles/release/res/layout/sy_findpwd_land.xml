@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.shiyue.syyx.support.PercentLinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/ly_regist_linear"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <com.shiyue.syyx.support.PercentLinearLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/corner_bg_white"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        app:layout_heightPercent="80%"
+        app:layout_widthPercent="60%">
+
+        <com.shiyue.syyx.support.PercentRelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:background="@drawable/corner_bg_top"
+            android:orientation="horizontal"
+            app:layout_heightPercent="15%"
+            app:layout_widthPercent="100%">
+
+
+            <TextView
+                android:id="@+id/tv_findpwd"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+
+                android:layout_alignParentTop="true"
+
+                android:layout_centerHorizontal="true"
+                android:clickable="true"
+                android:gravity="center"
+                android:text="密码找回（1/3）"
+                android:textColor="@color/sjwhite"
+                app:layout_textSizePercent="40%h" />
+
+
+            <ImageView
+                android:id="@+id/imbtn_back_login"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                app:layout_heightPercent="80%h"
+                app:layout_widthPercent="80%h"
+
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/sy_goback" />
+        </com.shiyue.syyx.support.PercentRelativeLayout>
+
+        <com.shiyue.syyx.support.PercentFrameLayout
+            android:id="@+id/fl_findpwd"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            app:layout_heightPercent="80%h"
+            app:layout_widthPercent="90%w">
+
+
+        </com.shiyue.syyx.support.PercentFrameLayout>
+    </com.shiyue.syyx.support.PercentLinearLayout>
+
+</com.shiyue.syyx.support.PercentLinearLayout>

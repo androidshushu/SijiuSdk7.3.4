@@ -1,0 +1,654 @@
+[
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjdian_junnet.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjdian_junnet.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjuser_safety_ba.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjuser_safety_ba.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\delete_gray.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\delete_gray.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjmessageiconalpha.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjmessageiconalpha.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjhalftuoyuanround.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjhalftuoyuanround.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjdown.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjdown.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\phone_small.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\phone_small.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjgame_hot.9.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjgame_hot.9.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\phone.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\phone.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjdian_sd.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjdian_sd.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjbackbtn_c.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjbackbtn_c.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\close.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\close.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjeyealpha.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjeyealpha.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjclose_icon.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjclose_icon.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjlockicon.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjlockicon.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\delete_while.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\delete_while.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjicon_gift.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjicon_gift.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjdian_wm_click.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjdian_wm_click.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjmobilepay_yidong_click.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjmobilepay_yidong_click.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjbackgame_background.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjbackgame_background.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\strategy_gc.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\strategy_gc.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\cry.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\cry.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjicon_share.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjicon_share.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjlogin_up_c.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjlogin_up_c.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjdian_wy_click.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjdian_wy_click.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\black_face.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\black_face.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\user_black.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\user_black.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjuser_goto.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjuser_goto.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjyeepay_style_click.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjyeepay_style_click.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjchinamobile_click.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjchinamobile_click.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sj_alipay_web.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sj_alipay_web.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjunionmobile_pay.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjunionmobile_pay.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjmobilepay_dianxin.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjmobilepay_dianxin.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjhuabian.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjhuabian.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjdian_sd_click.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjdian_sd_click.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjback_cl.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjback_cl.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\laugh.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\laugh.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjcard_num_kamima.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjcard_num_kamima.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjcheckbox_t.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjcheckbox_t.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\delete_blue.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\delete_blue.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sj_arrow.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sj_arrow.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjtelecom.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjtelecom.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjreturn_to_up.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjreturn_to_up.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\phone_round.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\phone_round.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjup.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjup.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjcard_num_xulie.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjcard_num_xulie.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjbackbtn.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjbackbtn.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjfindsecret.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjfindsecret.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjapplogo.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjapplogo.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjstar_cl.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjstar_cl.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjchinamobile.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjchinamobile.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\user_gray.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\user_gray.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjicon_kefu.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjicon_kefu.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjlogin_user.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjlogin_user.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjnotice_bg.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjnotice_bg.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjdot.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjdot.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\gift.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\gift.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjlogin_pwd.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjlogin_pwd.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\eye.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\eye.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjdian_wy.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjdian_wy.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjuser_bg.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjuser_bg.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjuser_icon.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjuser_icon.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjback_background.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjback_background.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\phone_round1.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\phone_round1.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjdian_junnet_click.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjdian_junnet_click.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\xlqy.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\xlqy.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\rotating_2.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\rotating_2.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\baidu.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\baidu.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjtelephone.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjtelephone.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjalipayquick_click.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjalipayquick_click.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjarrowleft.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjarrowleft.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjmobilepay_dianxin_click.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjmobilepay_dianxin_click.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\rotating.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\rotating.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\wechat.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\wechat.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjhome_phone_click.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjhome_phone_click.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjyeepaylist.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjyeepaylist.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjuser_tab_b.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjuser_tab_b.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjtuoyuan.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjtuoyuan.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjdian_wm.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjdian_wm.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sj_back.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sj_back.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\qq.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\qq.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\phone_green.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\phone_green.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjyeedlistnow.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjyeedlistnow.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjaccountmoneydown.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjaccountmoneydown.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\cb_unchecked.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\cb_unchecked.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\success_sy.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\success_sy.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjicon_box.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjicon_box.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjcard_type_click.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjcard_type_click.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\eye_green.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\eye_green.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjicon_company_blue.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjicon_company_blue.png"
+    },
+    {
+        "merged": "D:\\Git\\android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjspinner_outer.png",
+        "source": "D:\\Git\\android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjspinner_outer.png"
+    },
+    {
+        "merged": "D:\\Git\\android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\Git\\android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\user_gc.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\user_gc.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjlockbg.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjlockbg.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjalipayquick.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjalipayquick.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjuser_ok.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjuser_ok.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjuser_but.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjuser_but.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjfloat_left.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjfloat_left.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\chat.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\chat.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjnotice_top.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjnotice_top.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjlogin_up.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjlogin_up.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\key.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\key.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjicon_account.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjicon_account.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\phone_gc.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\phone_gc.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjhome_phone.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjhome_phone.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjyeepaylist_click.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjyeepaylist_click.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\prairie.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\prairie.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjfloat_round.9.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjfloat_round.9.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\head.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\head.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjuser_huabian.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjuser_huabian.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\off.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\off.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\syback.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\syback.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjstar_default.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjstar_default.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\delete.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\delete.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\shiyue_logo.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\shiyue_logo.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\back.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_launcher.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjaccounttouxiang.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjaccounttouxiang.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sina.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sina.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\gift_gc.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\gift_gc.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\shiyue_3.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\shiyue_3.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjhuanbianxia.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjhuanbianxia.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjfindphone.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjfindphone.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjicon_default.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjicon_default.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjshare_exit.9.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjshare_exit.9.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\close_while.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\close_while.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjconcatcall.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjconcatcall.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjdian_qq_click.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjdian_qq_click.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjuser_tab_a.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjuser_tab_a.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\wind.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\wind.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjre_but_b.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjre_but_b.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\key_small.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\key_small.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjtelephone_click.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjtelephone_click.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjuser_success.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjuser_success.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjhalftuoyuan.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjhalftuoyuan.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\phone_round2.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\phone_round2.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjicon_more.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjicon_more.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\password_black.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\password_black.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjvc_cl.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjvc_cl.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjtelecom_click.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjtelecom_click.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\cb_checked.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\cb_checked.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjcheckbox_f.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjcheckbox_f.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjtrash.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjtrash.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\back_while.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\back_while.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sj_alipay_web_click.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sj_alipay_web_click.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjfloat_right.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjfloat_right.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjdian_qq.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjdian_qq.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjmobilepay_yidong.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjmobilepay_yidong.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjfindkefu.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjfindkefu.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\right.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\right.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\black_phone.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\black_phone.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjrecharge_back_btn.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjrecharge_back_btn.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjuser_buttwo.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjuser_buttwo.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjcard_type.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjcard_type.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\user_round.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\user_round.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjspinner_outer.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjspinner_outer.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\green.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\green.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjround.9.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjround.9.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjshare_on.9.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjshare_on.9.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjunionmobile.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjunionmobile.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sjuser_edt.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\sjuser_edt.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\delete_type2.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\delete_type2.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\key_green.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\src\\main\\res\\drawable-hdpi\\key_green.png"
+    }
+]

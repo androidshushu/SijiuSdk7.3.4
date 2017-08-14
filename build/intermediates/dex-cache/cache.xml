@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Gits\android\SijiuSdk7.3.3\SijiuSdk7.3.3\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="D:\Gits\android\SijiuSdk7.3.3\SijiuSdk7.3.3\build\intermediates\pre-dexed\debug\com.android.support-support-v4-20.0.0_dd78258526990e0ad33b7e6577c384083da92d69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SDK\SijiuSdk7.3.3\SijiuSdk7.3.3\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1dc1f63cee098b27db60b9a2833fd7ca58f89636">
+        <dex dex="D:\SDK\SijiuSdk7.3.3\SijiuSdk7.3.3\build\intermediates\pre-dexed\debug\android-support-v4_63ea18840a36ab61578701de01fbb325d6424666.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gits\android\SijiuSdk7.3.3\SijiuSdk7.3.3\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Gits\android\SijiuSdk7.3.3\SijiuSdk7.3.3\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_47b8e6068d4b9c12bb736da34b52b0c396e8c24b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Git\android\SijiuSdk7.3.3\SijiuSdk7.3.3\libs\commons-httpclient-3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="964cd74171f427720480efdec40a7c7f6e58426a">
+        <dex dex="D:\Git\android\SijiuSdk7.3.3\SijiuSdk7.3.3\build\intermediates\pre-dexed\debug\commons-httpclient-3.1_dc250f3f1f09acf385709fe889cdfb54bc373f78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Git\android\SijiuSdk7.3.3\SijiuSdk7.3.3\libs\safekeyboard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0b94ec4f29cb995e90cc036cec05759ac1988d8d">
+        <dex dex="D:\Git\android\SijiuSdk7.3.3\SijiuSdk7.3.3\build\intermediates\pre-dexed\debug\safekeyboard_eed9ea673b4628b09da2d8cdcdaa4088610ae87c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gits\android\SijiuSdk7.3.3\SijiuSdk7.3.3\libs\safekeyboard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0b94ec4f29cb995e90cc036cec05759ac1988d8d">
+        <dex dex="D:\Gits\android\SijiuSdk7.3.3\SijiuSdk7.3.3\build\intermediates\pre-dexed\debug\safekeyboard_97938e4acef2e5cb69815316308756fb01d25878.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Git\android\SijiuSdk7.3.3\SijiuSdk7.3.3\libs\open_sdk_r5793_lite.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2881756e1678b5f8a866601be4eec5a6956fff5f">
+        <dex dex="D:\Git\android\SijiuSdk7.3.3\SijiuSdk7.3.3\build\intermediates\pre-dexed\debug\open_sdk_r5793_lite_e9faeb61550a552aceaf22212f91b91bb41b910b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gits\android\SijiuSdk7.3.3\SijiuSdk7.3.3\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="D:\Gits\android\SijiuSdk7.3.3\SijiuSdk7.3.3\build\intermediates\pre-dexed\debug\internal_impl-20.0.0_efc580dd96eacc6e6a6dabf2c7c5dcdb8cffbebe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SDK\SijiuSdk7.3.3\SijiuSdk7.3.3\libs\javabase64-1.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d6c41daabd8f7aebf65893dcbbfc18b5b78ea74">
+        <dex dex="D:\SDK\SijiuSdk7.3.3\SijiuSdk7.3.3\build\intermediates\pre-dexed\debug\javabase64-1.3.1_7d04a5f4ae1e74aa81756527e217dc8c88774e5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SDK\SijiuSdk7.3.3\SijiuSdk7.3.3\libs\commons-httpclient-3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="964cd74171f427720480efdec40a7c7f6e58426a">
+        <dex dex="D:\SDK\SijiuSdk7.3.3\SijiuSdk7.3.3\build\intermediates\pre-dexed\debug\commons-httpclient-3.1_2054c25c72c89775144c5cbe30160642ab855857.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SDK\SijiuSdk7.3.3\SijiuSdk7.3.3\libs\open_sdk_r5793_lite.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2881756e1678b5f8a866601be4eec5a6956fff5f">
+        <dex dex="D:\SDK\SijiuSdk7.3.3\SijiuSdk7.3.3\build\intermediates\pre-dexed\debug\open_sdk_r5793_lite_e656c7e5d07ad07be18e49f8abd1d6989639f957.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gits\android\SijiuSdk7.3.3\SijiuSdk7.3.3\libs\javabase64-1.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d6c41daabd8f7aebf65893dcbbfc18b5b78ea74">
+        <dex dex="D:\Gits\android\SijiuSdk7.3.3\SijiuSdk7.3.3\build\intermediates\pre-dexed\debug\javabase64-1.3.1_a74c8ee86180336a6eb4d7a4ad0f310be3afd1b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SDK\SijiuSdk7.3.3\SijiuSdk7.3.3\libs\wechat-sdk-android-without-mta-1.3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3101cc4bd795e09f6b1c292c6d7cdb3baa3ad02">
+        <dex dex="D:\SDK\SijiuSdk7.3.3\SijiuSdk7.3.3\build\intermediates\pre-dexed\debug\wechat-sdk-android-without-mta-1.3.4_70ea6642a9817e9a884e4760292e22f680fe528f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Git\android\SijiuSdk7.3.3\SijiuSdk7.3.3\libs\javabase64-1.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d6c41daabd8f7aebf65893dcbbfc18b5b78ea74">
+        <dex dex="D:\Git\android\SijiuSdk7.3.3\SijiuSdk7.3.3\build\intermediates\pre-dexed\debug\javabase64-1.3.1_f45d378e80913751c1d5bba8e46b2990ff16466b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Git\android\SijiuSdk7.3.3\SijiuSdk7.3.3\libs\wechat-sdk-android-without-mta-1.3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3101cc4bd795e09f6b1c292c6d7cdb3baa3ad02">
+        <dex dex="D:\Git\android\SijiuSdk7.3.3\SijiuSdk7.3.3\build\intermediates\pre-dexed\debug\wechat-sdk-android-without-mta-1.3.4_5024f56b9dd419c902b0bbb08f0200ac05ad8080.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gits\android\SijiuSdk7.3.3\SijiuSdk7.3.3\libs\commons-httpclient-3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="964cd74171f427720480efdec40a7c7f6e58426a">
+        <dex dex="D:\Gits\android\SijiuSdk7.3.3\SijiuSdk7.3.3\build\intermediates\pre-dexed\debug\commons-httpclient-3.1_0a688c0a801a151ce0537573c2c5e8532b8c5742.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gits\android\SijiuSdk7.3.3\SijiuSdk7.3.3\libs\wechat-sdk-android-without-mta-1.3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3101cc4bd795e09f6b1c292c6d7cdb3baa3ad02">
+        <dex dex="D:\Gits\android\SijiuSdk7.3.3\SijiuSdk7.3.3\build\intermediates\pre-dexed\debug\wechat-sdk-android-without-mta-1.3.4_a19bcf5462333a2fe50cce3b026dc8246d6858ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="D:\Gits\android\SijiuSdk7.3.3\SijiuSdk7.3.3\build\intermediates\pre-dexed\debug\support-annotations-20.0.0_f05a2a8c85b5425e197bfaee256dc9d8bace8802.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gits\android\SijiuSdk7.3.3\SijiuSdk7.3.3\libs\open_sdk_r5793_lite.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2881756e1678b5f8a866601be4eec5a6956fff5f">
+        <dex dex="D:\Gits\android\SijiuSdk7.3.3\SijiuSdk7.3.3\build\intermediates\pre-dexed\debug\open_sdk_r5793_lite_0be01412d821500d165926511276f3d4deb0c80c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SDK\SijiuSdk7.3.3\SijiuSdk7.3.3\libs\safekeyboard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0b94ec4f29cb995e90cc036cec05759ac1988d8d">
+        <dex dex="D:\SDK\SijiuSdk7.3.3\SijiuSdk7.3.3\build\intermediates\pre-dexed\debug\safekeyboard_f4780114f0c3399d5aa7fdf281e636b033b86801.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Gits\android\SijiuSdk7.3.3\SijiuSdk7.3.3\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_8b3fff35d4fb4ce08aa8ab0daab86dbd9a683b1a.jar" />
+    </item>
+
+</items>

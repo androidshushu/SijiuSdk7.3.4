@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="safekeyboard">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SijiuSdk7.3.3/libs/safekeyboard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

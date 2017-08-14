@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.shiyue.syyx.support.PercentLinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/linear"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+
+    <com.shiyue.syyx.support.PercentLinearLayout
+
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/corner_bg_white"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_heightPercent="50%"
+
+        app:layout_widthPercent="45%">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="真的要退出游戏吗？"
+            android:textColor="@color/sjgray"
+            app:layout_marginTopPercent="10%h"
+            app:layout_textSizePercent="10%h" />
+
+        <com.shiyue.syyx.support.PercentLinearLayout
+
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:gravity="center"
+            android:orientation="horizontal"
+            app:layout_heightPercent="30%h"
+            app:layout_marginTopPercent="10%h"
+            app:layout_widthPercent="100%w">
+
+            <Button
+                android:id="@+id/dialog_exit"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:background="@drawable/button_style_white"
+                android:gravity="center"
+                android:text="退出游戏"
+                android:textColor="@color/syblue"
+                app:layout_heightPercent="60%h"
+                app:layout_textSizePercent="25%h"
+
+                app:layout_widthPercent="35%w" />
+
+            <Button
+                android:id="@+id/dialog_cancel"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:background="@drawable/sjblue_btn_style"
+                android:gravity="center"
+                android:text="继续游戏"
+                android:textColor="@color/sjwhite"
+                app:layout_heightPercent="60%h"
+                app:layout_marginLeftPercent="10%w"
+                app:layout_textSizePercent="25%h"
+                app:layout_widthPercent="35%w" />
+        </com.shiyue.syyx.support.PercentLinearLayout>
+    </com.shiyue.syyx.support.PercentLinearLayout>
+</com.shiyue.syyx.support.PercentLinearLayout>

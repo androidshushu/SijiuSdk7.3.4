@@ -1,0 +1,64 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	android:id="@+id/linearl"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:minHeight="45dp"
+	android:layout_marginBottom="1dp"
+	android:descendantFocusability="blocksDescendants"
+	android:background="@drawable/sjlogin_m_edit_bg">
+	<RelativeLayout
+		android:id="@+id/subject_ll"
+		android:layout_width="fill_parent"
+		android:layout_height="45dp"
+		android:orientation="vertical" >
+		<com.shiyue.mhxy.support.PercentRelativeLayout
+
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:orientation="vertical" >
+	<ImageView
+	android:focusable="false"
+	android:id="@+id/user_icon"
+		android:layout_width="0dp"
+		android:layout_height="0dp"
+		app:layout_heightPercent="80%h"
+		app:layout_marginLeftPercent="1%w"
+		app:layout_widthPercent="80%h"
+
+	android:src="@drawable/sy_user_round"
+	android:layout_centerVertical="true"
+	android:layout_alignParentLeft="true" />
+
+<TextView
+	android:id="@+id/list_tv"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	app:layout_textSizePercent="50%h"
+	android:textColor="@color/sjblack"
+	app:layout_marginLeftPercent="120%h"
+	android:text="ff"
+	android:layout_centerVertical="true"
+	android:focusable="false"
+	android:layout_toRightOf="@+id/user_icon"
+	/>
+
+
+
+<ImageView
+	android:id="@+id/list_ibtn"
+	android:layout_width="0dp"
+	android:layout_height="0dp"
+	app:layout_heightPercent="80%h"
+	app:layout_marginRightPercent="1%w"
+	app:layout_widthPercent="80%h"
+	android:layout_alignParentRight="true"
+	android:layout_centerVertical="true"
+
+    android:focusable="false"
+
+	android:background="@drawable/sy_delect_gray"
+	android:clickable="true" />
+		</com.shiyue.mhxy.support.PercentRelativeLayout>
+</RelativeLayout>
+</RelativeLayout>

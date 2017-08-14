@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.shiyue.syyx.support.PercentLinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/frg_linear"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <com.shiyue.syyx.support.PercentLinearLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/corner_bg_white"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        app:layout_heightPercent="100%h"
+        app:layout_marginTopPercent="5%h"
+        app:layout_widthPercent="100%w">
+
+
+        <com.shiyue.syyx.support.PercentLinearLayout
+            android:id="@+id/frg_input"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:orientation="vertical"
+            app:layout_heightPercent="35%h"
+            app:layout_marginTopPercent="10%h"
+
+            app:layout_widthPercent="100%"
+
+            >
+
+            <com.shiyue.syyx.support.PercentRelativeLayout
+                android:id="@+id/pop"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:background="@drawable/sjlogin_m_edit_bg"
+
+
+                app:layout_heightPercent="40%h"
+                app:layout_marginBottomPercent="5%h"
+                app:layout_widthPercent="100%w">
+
+                <ImageView
+                    android:id="@+id/user_icon"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/sy_user_round"
+                    app:layout_heightPercent="80%h"
+                    app:layout_marginLeftPercent="1%w"
+                    app:layout_widthPercent="80%h" />
+
+
+                <EditText
+                    android:id="@+id/edit_user_frg"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_toEndOf="@+id/user_icon"
+                    android:layout_toRightOf="@+id/user_icon"
+                    android:background="@null"
+                    android:digits="@string/sjxianzhi"
+                    android:gravity="center_vertical"
+                    android:hint="  请输入账号"
+                    android:maxLength="20"
+               android:imeOptions="actionNext"
+                    android:maxLines="1"
+                    android:textColor="@color/sjblack"
+                    app:layout_heightPercent="100%h"
+                    app:layout_marginLeftPercent="1%w"
+                    app:layout_paddingLeftPercent="3%w"
+                    app:layout_textSizePercent="50%h"
+                    app:layout_widthPercent="78%w" />
+
+                <ImageView
+                    android:id="@+id/iv_reflash_frg"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/sy_reflash"
+
+                    android:clickable="true"
+                    app:layout_heightPercent="80%h"
+                    app:layout_marginRightPercent="1%w"
+                    app:layout_widthPercent="80%h" />
+
+
+            </com.shiyue.syyx.support.PercentRelativeLayout>
+
+
+            <com.shiyue.syyx.support.PercentRelativeLayout
+                android:id="@+id/rl2"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:background="@drawable/sjlogin_m_edit_bg"
+
+                android:orientation="horizontal"
+                app:layout_heightPercent="40%h"
+                app:layout_widthPercent="100%w">
+
+                <ImageView
+                    android:id="@+id/pwd_icon"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/sy_key"
+                    app:layout_heightPercent="80%h"
+                    app:layout_marginLeftPercent="1%w"
+                    app:layout_widthPercent="80%h" />
+
+                <EditText
+                    android:id="@+id/edit_pwd_frg"
+
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_toEndOf="@+id/pwd_icon"
+                    android:layout_toRightOf="@+id/pwd_icon"
+                    android:background="@null"
+                    android:gravity="center_vertical"
+                    android:hint="  请输入密码"
+    android:imeOptions="actionDone"
+                    android:maxLength="20"
+                    android:maxLines="1"
+                    android:textColor="@color/sjblack"
+                    app:layout_heightPercent="100%h"
+
+                    app:layout_marginLeftPercent="1%w"
+                    app:layout_paddingLeftPercent="3%w"
+                    app:layout_textSizePercent="50%h"
+                    app:layout_widthPercent="78%w" />
+
+                <!--<ImageView-->
+                <!--android:id="@+id/iv_password_show_frg"-->
+                <!--android:layout_width="0dp"-->
+                <!--android:layout_height="0dp"-->
+                <!--android:background="@drawable/sy_eye_green"-->
+
+                <!--android:clickable="true"-->
+                <!--app:layout_heightPercent="80%h"-->
+                <!--app:layout_marginRightPercent="1%w"-->
+                <!--app:layout_widthPercent="80%h"-->
+                <!--android:layout_alignTop="@+id/pwd_icon"-->
+                <!--android:layout_alignParentEnd="true"-->
+                <!--android:layout_marginEnd="16dp" />-->
+
+                <ImageView
+                    android:id="@+id/iv_password_show_frg"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/sy_eye_green"
+
+                    android:clickable="true"
+                    app:layout_heightPercent="80%h"
+                    app:layout_marginRightPercent="1%w"
+                    app:layout_widthPercent="80%h" />
+
+            </com.shiyue.syyx.support.PercentRelativeLayout>
+        </com.shiyue.syyx.support.PercentLinearLayout>
+
+
+        <!-- 按钮 -->
+
+        <com.shiyue.syyx.support.PercentLinearLayout
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:gravity="center_vertical"
+            app:layout_heightPercent="10%h"
+            app:layout_marginTopPercent="3%h"
+            app:layout_widthPercent="100%w">
+
+
+            <ImageView
+                android:id="@+id/cb_ischeck"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:background="@drawable/sy_cb_checked"
+                app:layout_heightPercent="100%h"
+
+                app:layout_widthPercent="100%h" />
+
+            <TextView
+
+                android:id="@+id/tv_agree"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="同意《诗悦网络游戏服务条款》"
+                android:textColor="@color/sjblue_s"
+                app:layout_marginLeftPercent="2%w"
+                app:layout_textSizePercent="60%h" />
+
+        </com.shiyue.syyx.support.PercentLinearLayout>
+
+        <Button
+            android:id="@+id/btn_regist"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_below="@+id/sy_agree"
+            android:background="@drawable/sjblue_btn_style"
+            android:gravity="center"
+            android:text="注册"
+            android:textColor="@color/sy_white"
+            app:layout_heightPercent="14%h"
+            app:layout_marginTopPercent="15%h"
+            app:layout_textSizePercent="7%h"
+            app:layout_widthPercent="80%w" />
+    </com.shiyue.syyx.support.PercentLinearLayout>
+
+</com.shiyue.syyx.support.PercentLinearLayout>

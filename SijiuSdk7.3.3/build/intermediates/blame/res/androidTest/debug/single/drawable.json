@@ -1,0 +1,406 @@
+[
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjgift_sava_copy_button.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjgift_sava_copy_button.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjorange_text_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjorange_text_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sy_select.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sy_select.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjsharebtn_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjsharebtn_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjgift_news_content_closebutton.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjgift_news_content_closebutton.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\corner_bg_buttom.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\corner_bg_buttom.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjrecharge_g_p_btn_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjrecharge_g_p_btn_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\button_style_white.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\button_style_white.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\corner_bg_btn_blue.xml",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\corner_bg_btn_blue.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\close_while.png",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\close_while.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjrecharge_edit_bg_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjrecharge_edit_bg_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjspinner.xml",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjspinner.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\cb_unchecked.png",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\cb_unchecked.png"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\phone_round.png",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\phone_round.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjyeepay_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjyeepay_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sy_cb_checked.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sy_cb_checked.png"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjgray_text_style.xml",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjgray_text_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjrecharge_back_btn_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjrecharge_back_btn_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjline.xml",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjline.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\close_while.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\close_while.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjuser_info_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjuser_info_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sy_phone_round.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sy_phone_round.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjrecharge_g_btn_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjrecharge_g_btn_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjorange_btn_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjorange_btn_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sy_delect_gray.png",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sy_delect_gray.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjuser_messager_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjuser_messager_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sy_user_round.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sy_user_round.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shiyuelogo.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\shiyuelogo.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjlogin_up_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjlogin_up_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sy_delect_gray.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sy_delect_gray.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjrecharge_result_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjrecharge_result_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjbackbtn_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjbackbtn_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjprogress_bar_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjprogress_bar_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\corner_bg_buttom.xml",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\corner_bg_buttom.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjmoregame_btn_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjmoregame_btn_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjgreen_btn_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjgreen_btn_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjre_but_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjre_but_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjcheckbox_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjcheckbox_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjicon_star_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjicon_star_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjblue_btn_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjblue_btn_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjgray_text_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjgray_text_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjtoast_style.xml",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjtoast_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjlogin_m_edit_bg.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjlogin_m_edit_bg.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjgift_news_item_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjgift_news_item_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjlogin_m_edit_bg.xml",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjlogin_m_edit_bg.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\corner_bg_top.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\corner_bg_top.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjdialog.xml",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjdialog.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjwhite_bg_buttom_more_count.xml",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjwhite_bg_buttom_more_count.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sy_arrow_down.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sy_arrow_down.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjyeepaybtn_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjyeepaybtn_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\corner_bg_white.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\corner_bg_white.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\screenshot_panel.9.png",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\screenshot_panel.9.png"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sy_eye_green.png",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sy_eye_green.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sy_key.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sy_key.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sy_goback.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sy_goback.png"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjblue_btn_style.xml",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjblue_btn_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sy_select.png",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sy_select.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjim_hb_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjim_hb_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sy_phone_round.png",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sy_phone_round.png"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sylogo.png",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sylogo.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sy_cb_unchecked.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sy_cb_unchecked.png"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\corner_bg_white.xml",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\corner_bg_white.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sy_key.png",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sy_key.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjupdialog.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjupdialog.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sy_user_round.png",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sy_user_round.png"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjupdialog.xml",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjupdialog.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjrecharge_bill_btn_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjrecharge_bill_btn_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\corner_bg_btn_blue.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\corner_bg_btn_blue.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sy_cb_unchecked.png",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sy_cb_unchecked.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sy_eye.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sy_eye.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjyeepaylist_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjyeepaylist_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\button_style_white.xml",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\button_style_white.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjrecharge_result_style.xml",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjrecharge_result_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sybtn_text_style.xml",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sybtn_text_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjspinner.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjspinner.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sy_reflash.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sy_reflash.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjline.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjline.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjgreens_btn_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjgreens_btn_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sylogo.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sylogo.png"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shiyuelogo.png",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\shiyuelogo.png"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\qq_red.png",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\qq_red.png"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sy_cb_checked.png",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sy_cb_checked.png"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sy_eye.png",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sy_eye.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\screenshot_panel.9.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\screenshot_panel.9.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjtoast_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjtoast_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\cb_unchecked.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\cb_unchecked.png"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjgraybtn_style.xml",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjgraybtn_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjcustomer_contact_btn_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjcustomer_contact_btn_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjgraybtn_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjgraybtn_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wechat.png",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\wechat.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sybtn_text_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sybtn_text_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjblues_btn_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjblues_btn_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjgift_list_head_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjgift_list_head_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\corner_bg_top.xml",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\corner_bg_top.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sy_eye_green.png",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sy_eye_green.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjgift_news_time_style.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjgift_news_time_style.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sy_reflash.png",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sy_reflash.png"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sy_arrow_down.png",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sy_arrow_down.png"
+    },
+    {
+        "merged": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sy_goback.png",
+        "source": "F:\\SDK\\SDK_android\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sy_goback.png"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjdialog.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjdialog.xml"
+    },
+    {
+        "merged": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sjwhite_bg_buttom_more_count.xml",
+        "source": "F:\\SDK\\SijiuSdk7.3.3\\SijiuSdk7.3.3\\build\\intermediates\\bundles\\debug\\res\\drawable\\sjwhite_bg_buttom_more_count.xml"
+    }
+]

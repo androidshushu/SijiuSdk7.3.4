@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.shiyue.mhxy.support.PercentLinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/frg_ph_linear"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <com.shiyue.mhxy.support.PercentLinearLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/corner_bg_white"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        app:layout_heightPercent="100%h"
+        app:layout_marginTopPercent="5%h"
+        app:layout_widthPercent="100%w">
+
+        <com.shiyue.mhxy.support.PercentLinearLayout
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:background="@drawable/corner_bg_white"
+            app:layout_heightPercent="18%h"
+            app:layout_marginTopPercent="2%h"
+            app:layout_widthPercent="100%w">
+
+            <ImageView
+                android:id="@+id/shiyue_icon"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:background="@drawable/sy_user_round"
+                android:clickable="true"
+                app:layout_heightPercent="55%h"
+                app:layout_marginLeftPercent="82%h"
+                android:layout_gravity="center_vertical"
+                app:layout_widthPercent="55%h" />
+
+            <TextView
+                android:id="@+id/sy_bind_account"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:paddingLeft="10px"
+                android:text="诗悦账号:"
+                app:layout_textSizePercent="43%h"
+                android:textColor="#000000"
+                 />
+            <!--android:textSize="54px"-->
+
+            <TextView
+                android:id="@+id/bind_show_account"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:textColor="#000000"
+                android:gravity="center_vertical"
+                android:text="账号"
+                app:layout_textSizePercent="40%h"
+
+                app:layout_heightPercent="50%h"
+                app:layout_marginRightPercent="68%h" />
+            <!--android:textSize="45px"-->
+        </com.shiyue.mhxy.support.PercentLinearLayout>
+
+        <com.shiyue.mhxy.support.PercentLinearLayout
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:background="@drawable/corner_bg_white"
+            android:orientation="vertical"
+            app:layout_heightPercent="38%h"
+            app:layout_marginTopPercent="2%h"
+            app:layout_widthPercent="100%w">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:text="请输入绑定手机号："
+                android:textColor="#616161"
+                app:layout_heightPercent="30%h"
+                app:layout_marginLeftPercent="38%h"
+                app:layout_marginTopPercent="3%h"
+                app:layout_widthPercent="80%w"
+                app:layout_textSizePercent="20%h"/>
+            <!-- android:textSize="45px"
+            android:background="@drawable/edit_bg"
+            -->
+
+            <EditText
+                android:id="@+id/bind_phonenumber"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:background="@drawable/sjlogin_m_edit_bg"
+                android:textColor="@color/sjblack"
+                android:imeOptions="actionDone"
+
+                app:layout_heightPercent="32%h"
+                app:layout_marginLeftPercent="38%h"
+                app:layout_marginTopPercent="2%h"
+                app:layout_widthPercent="80%w" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:text="请输入验证码："
+                android:textColor="#616161"
+
+                app:layout_heightPercent="33%h"
+                app:layout_marginLeftPercent="38%h"
+                app:layout_marginTopPercent="3%h"
+                app:layout_widthPercent="80%w"
+                app:layout_textSizePercent="20%h"/>
+            <!--android:textSize="45px"-->
+
+
+        </com.shiyue.mhxy.support.PercentLinearLayout>
+
+        <com.shiyue.mhxy.support.PercentLinearLayout
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:background="@drawable/corner_bg_white"
+            android:orientation="horizontal"
+            app:layout_heightPercent="15%h"
+            app:layout_widthPercent="100%w">
+
+            <EditText
+                android:id="@+id/bind_identify"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+
+                android:background="@drawable/sjlogin_m_edit_bg"
+                android:textColor="@color/sjblack"
+                android:imeOptions="actionDone"
+                app:layout_heightPercent="80%h"
+                app:layout_marginLeftPercent="96%h"
+                app:layout_marginTopPercent="3%h"
+                app:layout_widthPercent="50%w" />
+
+            <Button
+
+                android:id="@+id/bind_getidentify_button"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:background="@drawable/sjblue_btn_style"
+                android:text="获取验证码"
+                android:textColor="@color/sy_white"
+                app:layout_heightPercent="80%h"
+                app:layout_marginLeftPercent="10%h"
+                app:layout_widthPercent="29%w"
+                app:layout_textSizePercent="32%h"/>
+        </com.shiyue.mhxy.support.PercentLinearLayout>
+
+        <com.shiyue.mhxy.support.PercentLinearLayout
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:background="@drawable/corner_bg_white"
+            android:orientation="horizontal"
+            app:layout_heightPercent="15%h"
+            app:layout_widthPercent="100%w">
+
+            <Button
+
+                android:id="@+id/bind_confirm"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:background="@drawable/sjblue_btn_style"
+                android:padding="5px"
+                android:paddingLeft="8px"
+                android:text="确认绑定"
+                android:textColor="@color/sy_white"
+                app:layout_heightPercent="100%h"
+                app:layout_marginLeftPercent="86%h"
+                app:layout_widthPercent="81%w"
+                app:layout_textSizePercent="50%h"/>
+        </com.shiyue.mhxy.support.PercentLinearLayout>
+
+
+    </com.shiyue.mhxy.support.PercentLinearLayout>
+
+</com.shiyue.mhxy.support.PercentLinearLayout>
